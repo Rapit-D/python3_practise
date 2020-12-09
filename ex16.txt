@@ -1,3 +1,0 @@
-1st line
-this is second line
-the third line is end line.
